@@ -2,7 +2,7 @@
 
 module.exports = {
   TOKEN: "",
-  ownerID: ["1004206704994566164", ""], 
+  ownerID: ["1126336222206365696", ""], 
   commandsDir: './commands',  
   embedColor: "00fbff",
   errorLog: "", 
